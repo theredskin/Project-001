@@ -3,7 +3,12 @@ h1 {
 }
 
 body {
+  color: white;
   background-color: black;
+}
+
+table {
+  border-spacing: 10px;
 }
 
 div {
