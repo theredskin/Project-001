@@ -14,8 +14,7 @@ let Task = function(name) {
     
 }
 
-// ClassName.prototype.methodName = function(arguments) {
-// };
+// ClassName.prototype.methodName = function(arguments) {   };
 
 Task.prototype.complete = function() {
     console.log('completing task: ' + Task.name);
